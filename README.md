@@ -3,7 +3,7 @@
 - 🌱 Estou aprendendo JAVA
 - 🤔 Procuro aprender IA 
 - 📫 Contate-me no email - levi.santos@aln.senaicimatec.edu.br
-- 😄 Pronouns: ele/dele
+
 
 
 <div align="center">
