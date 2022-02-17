@@ -1,7 +1,7 @@
 ### OIE!!!, Eu sou Levi Cezane ;)
 - 🔭 Hoje estou estudando Engenharia da Computação no Senai Cimatec III semestre
 - 🌱 To aprendendo JAVA
-- 🤔 Procuro aprender IA mais e mais
+- 🤔 Procuro aprender IA 
 - 📫 Contate-me no email - levi.santos@aln.senaicimatec.edu.br
 - 😄 Pronouns: ele/dele
 
