@@ -1,7 +1,5 @@
 ### OIE!!!, Eu sou Levi Cezane ;)
-- 🔭 Estudando Engenharia da Computação no Senai Cimatec III semestre
-- 🌱 Estou aprendendo JAVA
-- 🤔 Procuro aprender IA 
+- 🔭 Estudando Engenharia da Computação na UFBA IV Semestre
 - 📫 Contate-me no email - levi.santos@aln.senaicimatec.edu.br
 
 
